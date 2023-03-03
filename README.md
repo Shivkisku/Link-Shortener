@@ -1,0 +1,3 @@
+# Link-Shortener
+
+This is a Python script that creates a Graphical User Interface (GUI) window using the tkinter library. The purpose of this script is to allow the user to enter a long URL in an entry box and then use the pyshorteners library to shorten the URL using the TinyURL service. When the user clicks the "Shorten" button, the script retrieves the URL from the entry box, uses the pyshorteners library to shorten it, and then displays the shortened URL in a message box using the tk.messagebox function. The GUI window consists of a label that prompts the user to enter a URL, an entry box for the user to input the URL, and a button to initiate the URL shortening process.
